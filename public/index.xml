@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Personal Website </title>
+        <link>http://localhost:1313/</link>
+        <description>Recent content on Personal Website </description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 15 Nov 2024 00:03:32 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Idea for Vr Locomotion and Interaction</title>
+        <link>http://localhost:1313/posts/idea-for-vr-locomotion-and-interaction/</link>
+        <pubDate>Fri, 15 Nov 2024 00:03:32 +0100</pubDate>
+        
+        <guid>http://localhost:1313/posts/idea-for-vr-locomotion-and-interaction/</guid>
+        <description>&lt;ul&gt;
+&lt;li&gt;contents of presentation&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Setting Up the Website</title>
+        <link>http://localhost:1313/posts/setting-up-the-website/</link>
+        <pubDate>Wed, 13 Nov 2024 15:33:38 +0100</pubDate>
+        
+        <guid>http://localhost:1313/posts/setting-up-the-website/</guid>
+        <description>&lt;p&gt;To set up this website I used &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo&lt;/a&gt; as recommended within our course.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;wanted to use different theme which needed a minimum version and explanation also minimum requirement of version&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;wasnt available out of the box on Fedora, therefore I downloaded and built it myself&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;worked well then but I also wanted to create categories&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Introduction</title>
+        <link>http://localhost:1313/posts/introduction/</link>
+        <pubDate>Mon, 11 Nov 2024 13:21:14 +0100</pubDate>
+        
+        <guid>http://localhost:1313/posts/introduction/</guid>
+        <description>&lt;p&gt;what is this about?&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
