@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Personal Website </title>
-        <link>http://localhost:41933/</link>
-        <description>Recent content on Personal Website </description>
+        <title>Posts on Personal Website </title>
+        <link>http://localhost:41933/post/</link>
+        <description>Recent content in Posts on Personal Website </description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 15 Nov 2024 00:03:32 +0100</lastBuildDate><atom:link href="http://localhost:41933/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 15 Nov 2024 00:03:32 +0100</lastBuildDate><atom:link href="http://localhost:41933/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Idea for Vr Locomotion and Interaction</title>
         <link>http://localhost:41933/post/idea-for-vr-locomotion-and-interaction/</link>
         <pubDate>Fri, 15 Nov 2024 00:03:32 +0100</pubDate>

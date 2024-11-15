@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Personal Website </title>
-        <link>http://localhost:1313/posts/</link>
+        <link>http://localhost:39655/posts/</link>
         <description>Recent content in Posts on Personal Website </description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 15 Nov 2024 00:03:32 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 15 Nov 2024 00:03:32 +0100</lastBuildDate><atom:link href="http://localhost:39655/posts/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Idea for Vr Locomotion and Interaction</title>
-        <link>http://localhost:1313/posts/idea-for-vr-locomotion-and-interaction/</link>
+        <link>http://localhost:39655/posts/idea-for-vr-locomotion-and-interaction/</link>
         <pubDate>Fri, 15 Nov 2024 00:03:32 +0100</pubDate>
         
-        <guid>http://localhost:1313/posts/idea-for-vr-locomotion-and-interaction/</guid>
+        <guid>http://localhost:39655/posts/idea-for-vr-locomotion-and-interaction/</guid>
         <description>&lt;ul&gt;
 &lt;li&gt;contents of presentation&lt;/li&gt;
 &lt;/ul&gt;
@@ -19,10 +19,10 @@
         </item>
         <item>
         <title>Setting Up the Website</title>
-        <link>http://localhost:1313/posts/setting-up-the-website/</link>
+        <link>http://localhost:39655/posts/setting-up-the-website/</link>
         <pubDate>Wed, 13 Nov 2024 15:33:38 +0100</pubDate>
         
-        <guid>http://localhost:1313/posts/setting-up-the-website/</guid>
+        <guid>http://localhost:39655/posts/setting-up-the-website/</guid>
         <description>&lt;p&gt;To set up this website I used &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Hugo&lt;/a&gt; as recommended within our course.&lt;/p&gt;
 &lt;ul&gt;
@@ -40,10 +40,10 @@
         </item>
         <item>
         <title>Introduction</title>
-        <link>http://localhost:1313/posts/introduction/</link>
+        <link>http://localhost:39655/posts/introduction/</link>
         <pubDate>Mon, 11 Nov 2024 13:21:14 +0100</pubDate>
         
-        <guid>http://localhost:1313/posts/introduction/</guid>
+        <guid>http://localhost:39655/posts/introduction/</guid>
         <description>&lt;p&gt;what is this about?&lt;/p&gt;
 </description>
         </item>
