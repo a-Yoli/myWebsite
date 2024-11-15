@@ -1,20 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on Personal Website </title>
-        <link>http://localhost:41933/post/</link>
-        <description>Recent content in Posts on Personal Website </description>
+        <title>Posts on aYoli&#39;s Website</title>
+        <link>http://localhost:1313/post/</link>
+        <description>Recent content in Posts on aYoli&#39;s Website</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 15 Nov 2024 00:03:32 +0100</lastBuildDate><atom:link href="http://localhost:41933/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Idea for Vr Locomotion and Interaction</title>
-        <link>http://localhost:41933/post/idea-for-vr-locomotion-and-interaction/</link>
-        <pubDate>Fri, 15 Nov 2024 00:03:32 +0100</pubDate>
+        <lastBuildDate>Wed, 13 Nov 2024 15:33:38 +0100</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Setting Up the Website</title>
+        <link>http://localhost:1313/post/setting-up-the-website/</link>
+        <pubDate>Wed, 13 Nov 2024 15:33:38 +0100</pubDate>
         
-        <guid>http://localhost:41933/post/idea-for-vr-locomotion-and-interaction/</guid>
-        <description>&lt;ul&gt;
-&lt;li&gt;contents of presentation&lt;/li&gt;
-&lt;/ul&gt;
+        <guid>http://localhost:1313/post/setting-up-the-website/</guid>
+        <description>&lt;p&gt;To set up this website I used &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo&lt;/a&gt; as recommended within our course. The process was generally straightforward, but I noticed that the &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/getting-started/quick-start/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Quick start tutorial&lt;/a&gt; asks for Hugo v0.128.0. The version which I installed via the dnf software package manager as recommended by &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/installation/linux/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo&amp;rsquo;s linux nstallation guide&lt;/a&gt; (my operating system is Fedora) was much lower (v0.111&amp;hellip;). While this version might have sufficed to create a Hugo website, I also needed a newer version for the theme I wanted to use (&lt;a class=&#34;link&#34; href=&#34;https://themes.gohugo.io/themes/hugo-theme-stack/#documentation&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo Theme Stack&lt;/a&gt;) So without using the snap package manager, my only option was to build it from source. After I did that, I could finally use the theme I wanted.&lt;/p&gt;
+&lt;p&gt;With that I could continue creating my page. Unfortunately, my posts wouldn&amp;rsquo;t show up and if you wonder, if I just forgot to add the &lt;code&gt;-D&lt;/code&gt; flag to the &lt;code&gt;hugo server&lt;/code&gt; command, then I have to disappoint you. So I turned to the internet as usual when I have a problem with software. I found the solution in the &lt;a class=&#34;link&#34; href=&#34;https://discourse.gohugo.io/t/new-to-hugo-content-posts-do-not-display-anything/28298&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;hugo forums&lt;/a&gt;: the automatically created folder structure named the folder for posts &amp;lsquo;posts&amp;rsquo; but mytheme asked for the name to be &amp;lsquo;post&amp;rsquo;. With that I finally had my working website. I plan on editing the website later on to make it more visually pleasing but for now it has all that I need.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Introduction</title>
+        <link>http://localhost:1313/post/introduction/</link>
+        <pubDate>Mon, 11 Nov 2024 13:21:14 +0100</pubDate>
+        
+        <guid>http://localhost:1313/post/introduction/</guid>
+        <description>&lt;p&gt;Hello and welcome to my personal website! I take the course &amp;lsquo;Interaction in Virtual and Augmented Reality&amp;rsquo; this winter term at Technical University Darmstadt as part of my Master program. I am going to create a locomotion and interaction technique for AR or VR over the course of the semester and document my progress on this website.&lt;/p&gt;
+&lt;p&gt;Looking forward to it and hope you tag along :)&lt;/p&gt;
 </description>
         </item>
         
