@@ -1,5 +1,5 @@
 +++
-date = '2024-11-11T13:21:14+01:00'
+date = '2024-11-04T13:21:14+01:00'
 draft = false
 title = 'Introduction'
 category = ['Course: Interaction in Virtual and Augmented Reality 2024/2025']

@@ -2,16 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>aYoli&#39;s Website</title>
-        <link>http://localhost:1313/</link>
+        <link>//localhost:1313/</link>
         <description>Recent content on aYoli&#39;s Website</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 13 Nov 2024 15:33:38 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Setting Up the Website</title>
-        <link>http://localhost:1313/post/setting-up-the-website/</link>
-        <pubDate>Wed, 13 Nov 2024 15:33:38 +0100</pubDate>
+        <lastBuildDate>Mon, 18 Nov 2024 13:03:32 +0100</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>My Idea for a VR Locomotion and Interaction Technique: Fly like a squirrel</title>
+        <link>//localhost:1313/post/idea-for-vr-locomotion-and-interaction/</link>
+        <pubDate>Mon, 18 Nov 2024 13:03:32 +0100</pubDate>
         
-        <guid>http://localhost:1313/post/setting-up-the-website/</guid>
+        <guid>//localhost:1313/post/idea-for-vr-locomotion-and-interaction/</guid>
+        <description>&lt;p&gt;As previously mentioned, I have to come up and create a locomotion and interaction technique in XR over the course of this semester. When I was trying to come up with techniques, different ideas popped up in my mind, such as letting the player throw a lasso to move within the XR environment. Another idea I had, was using an animal as a metaphor for my locomotion and interaction technique. I then build up further on my different ideas. For the lasso locomotion I would need poles to throw the lasso at and then pull yourself close to. This could be done by letting the player also throw spears, which would then act as the lasso&amp;rsquo;s poles. While I still think that this sounds like a funny idea, it also sounds kind of exhausting and I could not come up with an interaction technique, that would fit into this narrative.&lt;/p&gt;
+&lt;p&gt;Therefore, I decided on thinking further on my animal locomotion and interaction technique. I thought that flying could be interesting, but that locomotion technique already exists in many variations and I would prefer, if I could use the parcour we got provided at least partially. When I was thinking about animals, which move in an interesting way, I was reminded that flying squirrels exist. WHile they cannot actually fly, they do move through the air by gliding between trees using the skin between their extremities. So my locomotion technique consists of three different movements: crawling/ or climbing, where the player is able to move over ground or up a vertical surface (like a tree trunk), a jump, which pushes the player away from a surface to engage gliding and the gliding, which allows the player to move within the air.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/Flying_Squirrel_Locomotion.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Flying Squirrel Locomotion Technique&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;With this metaphor, I instantly had an idea for an interacton technique as well: like a squirrel might hold a nut, the player holds their hands and moves them as if rotating a ball to change the orientation of an object.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/Hands.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Flying Squirrel Interaction Technique&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;To implement my idea, I am going to use hand tracking. Ideally I won&amp;rsquo;t need the controllers at all, but we will see how well it works. I will also just use a VR environment, because I want to change the virtual environment to fit my flying squirrel narrative. My main goal for this locomotion and interaction technique is for the player to have fun and experience something new.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Setting Up the Website</title>
+        <link>//localhost:1313/post/setting-up-the-website/</link>
+        <pubDate>Mon, 04 Nov 2024 15:33:38 +0100</pubDate>
+        
+        <guid>//localhost:1313/post/setting-up-the-website/</guid>
         <description>&lt;p&gt;To set up this website I used &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Hugo&lt;/a&gt; as recommended within our course. The process was generally straightforward, but I noticed that the &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/getting-started/quick-start/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Quick start tutorial&lt;/a&gt; asks for Hugo v0.128.0. The version which I installed via the dnf software package manager as recommended by &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/installation/linux/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -23,10 +55,10 @@
         </item>
         <item>
         <title>Introduction</title>
-        <link>http://localhost:1313/post/introduction/</link>
-        <pubDate>Mon, 11 Nov 2024 13:21:14 +0100</pubDate>
+        <link>//localhost:1313/post/introduction/</link>
+        <pubDate>Mon, 04 Nov 2024 13:21:14 +0100</pubDate>
         
-        <guid>http://localhost:1313/post/introduction/</guid>
+        <guid>//localhost:1313/post/introduction/</guid>
         <description>&lt;p&gt;Hello and welcome to my personal website! I take the course &amp;lsquo;Interaction in Virtual and Augmented Reality&amp;rsquo; this winter term at Technical University Darmstadt as part of my Master program. I am going to create a locomotion and interaction technique for AR or VR over the course of the semester and document my progress on this website.&lt;/p&gt;
 &lt;p&gt;Looking forward to it and hope you tag along :)&lt;/p&gt;
 </description>
